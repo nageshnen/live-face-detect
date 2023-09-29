@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NageshV/Desktop/Projects/live-face-detection/mlruns/0/1bb372aa89d148b38b20a7eef95ee3aa/artifacts
+end_time: 1694698146468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bb372aa89d148b38b20a7eef95ee3aa
+run_name: burly-kit-376
+run_uuid: 1bb372aa89d148b38b20a7eef95ee3aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694698136253
+status: 3
+tags: []
+user_id: NageshV

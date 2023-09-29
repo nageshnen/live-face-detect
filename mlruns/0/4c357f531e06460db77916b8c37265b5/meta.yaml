@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NageshV/Desktop/Projects/live-face-detection/mlruns/0/4c357f531e06460db77916b8c37265b5/artifacts
+end_time: 1694698447171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c357f531e06460db77916b8c37265b5
+run_name: unique-hen-939
+run_uuid: 4c357f531e06460db77916b8c37265b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694698436817
+status: 3
+tags: []
+user_id: NageshV

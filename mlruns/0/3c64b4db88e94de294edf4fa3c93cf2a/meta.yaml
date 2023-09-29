@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NageshV/Desktop/Projects/live-face-detection/mlruns/0/3c64b4db88e94de294edf4fa3c93cf2a/artifacts
+end_time: 1694698861061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c64b4db88e94de294edf4fa3c93cf2a
+run_name: thundering-goose-139
+run_uuid: 3c64b4db88e94de294edf4fa3c93cf2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694698857916
+status: 3
+tags: []
+user_id: NageshV

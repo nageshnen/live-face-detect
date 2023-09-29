@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NageshV/Desktop/Projects/live-face-detection/mlruns/0/4275909ccb5b4fe890b3732c011986aa/artifacts
+end_time: 1694723089463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4275909ccb5b4fe890b3732c011986aa
+run_name: likeable-shrike-926
+run_uuid: 4275909ccb5b4fe890b3732c011986aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694723074481
+status: 3
+tags: []
+user_id: NageshV

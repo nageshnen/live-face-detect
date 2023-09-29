@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NageshV/Desktop/Projects/live-face-detection/mlruns/0/ac26f020f06f4264b30a3dec2fad877c/artifacts
+end_time: 1694698895779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac26f020f06f4264b30a3dec2fad877c
+run_name: learned-pig-525
+run_uuid: ac26f020f06f4264b30a3dec2fad877c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694698864290
+status: 3
+tags: []
+user_id: NageshV

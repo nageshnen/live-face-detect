@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NageshV/Desktop/Projects/live-face-detection/mlruns/0/605ceaca88fa47868c2ae6bd9661dc7a/artifacts
+end_time: 1694698644646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 605ceaca88fa47868c2ae6bd9661dc7a
+run_name: mercurial-shrimp-516
+run_uuid: 605ceaca88fa47868c2ae6bd9661dc7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694698641094
+status: 4
+tags: []
+user_id: NageshV

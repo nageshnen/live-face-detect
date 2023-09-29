@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NageshV/Desktop/Projects/live-face-detection/mlruns/0/88e58b5f938645d0b1a4d7bdc2972cfd/artifacts
+end_time: 1694722974827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88e58b5f938645d0b1a4d7bdc2972cfd
+run_name: monumental-snipe-395
+run_uuid: 88e58b5f938645d0b1a4d7bdc2972cfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694722926730
+status: 3
+tags: []
+user_id: NageshV

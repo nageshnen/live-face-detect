@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NageshV/Desktop/Projects/live-face-detection/mlruns/0/3b0375582f7e4269ac25c3f04f057e18/artifacts
+end_time: 1694722974832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b0375582f7e4269ac25c3f04f057e18
+run_name: whimsical-deer-678
+run_uuid: 3b0375582f7e4269ac25c3f04f057e18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694722916716
+status: 3
+tags: []
+user_id: NageshV

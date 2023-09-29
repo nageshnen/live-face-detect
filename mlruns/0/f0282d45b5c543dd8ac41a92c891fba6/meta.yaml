@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NageshV/Desktop/Projects/live-face-detection/mlruns/0/f0282d45b5c543dd8ac41a92c891fba6/artifacts
+end_time: 1694611250927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0282d45b5c543dd8ac41a92c891fba6
+run_name: stately-deer-414
+run_uuid: f0282d45b5c543dd8ac41a92c891fba6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694611238904
+status: 3
+tags: []
+user_id: NageshV

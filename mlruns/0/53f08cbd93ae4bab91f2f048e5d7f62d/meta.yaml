@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NageshV/Desktop/Projects/live-face-detection/mlruns/0/53f08cbd93ae4bab91f2f048e5d7f62d/artifacts
+end_time: 1694723089037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53f08cbd93ae4bab91f2f048e5d7f62d
+run_name: useful-grouse-777
+run_uuid: 53f08cbd93ae4bab91f2f048e5d7f62d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694723083886
+status: 3
+tags: []
+user_id: NageshV

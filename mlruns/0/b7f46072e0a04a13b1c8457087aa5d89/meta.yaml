@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NageshV/Desktop/Projects/live-face-detection/mlruns/0/b7f46072e0a04a13b1c8457087aa5d89/artifacts
+end_time: 1694722679051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7f46072e0a04a13b1c8457087aa5d89
+run_name: polite-stork-312
+run_uuid: b7f46072e0a04a13b1c8457087aa5d89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694722630957
+status: 3
+tags: []
+user_id: NageshV

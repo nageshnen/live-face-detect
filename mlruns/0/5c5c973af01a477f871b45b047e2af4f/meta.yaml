@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NageshV/Desktop/Projects/live-face-detection/mlruns/0/5c5c973af01a477f871b45b047e2af4f/artifacts
+end_time: 1694698644672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c5c973af01a477f871b45b047e2af4f
+run_name: dazzling-kit-779
+run_uuid: 5c5c973af01a477f871b45b047e2af4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694698631847
+status: 3
+tags: []
+user_id: NageshV

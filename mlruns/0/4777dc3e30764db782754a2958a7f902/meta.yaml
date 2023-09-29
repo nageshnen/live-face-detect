@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NageshV/Desktop/Projects/live-face-detection/mlruns/0/4777dc3e30764db782754a2958a7f902/artifacts
+end_time: 1694722679103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4777dc3e30764db782754a2958a7f902
+run_name: blushing-toad-128
+run_uuid: 4777dc3e30764db782754a2958a7f902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694722621309
+status: 3
+tags: []
+user_id: NageshV

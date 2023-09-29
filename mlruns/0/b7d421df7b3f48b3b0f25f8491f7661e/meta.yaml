@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NageshV/Desktop/Projects/live-face-detection/mlruns/0/b7d421df7b3f48b3b0f25f8491f7661e/artifacts
+end_time: 1694723026411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7d421df7b3f48b3b0f25f8491f7661e
+run_name: crawling-stork-131
+run_uuid: b7d421df7b3f48b3b0f25f8491f7661e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694723010483
+status: 3
+tags: []
+user_id: NageshV

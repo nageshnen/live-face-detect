@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/NageshV/Desktop/Projects/live-face-detection/mlruns/0/03039ddecc7d46c1b9ce542f6d68f1ec/artifacts
+end_time: 1694723026407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03039ddecc7d46c1b9ce542f6d68f1ec
+run_name: abundant-sow-129
+run_uuid: 03039ddecc7d46c1b9ce542f6d68f1ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694723020030
+status: 3
+tags: []
+user_id: NageshV
